@@ -1,3 +1,5 @@
+Import from https://code.google.com/p/postimer
+
 Simple Web Site to display Re-inforcement Timers for Eve online Structures.
 
 The application is based on the Yii framework and requires this to function. Download Yii from http://www.yiiframework.com/ See the help and tutorials on the Yii site for help on configuring. It is recommended that you get the simple example website "hangman" working to ensure that your Yii framework is correctly installed.
